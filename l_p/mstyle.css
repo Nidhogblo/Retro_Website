@@ -1,0 +1,133 @@
+body{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p1{
+    background-color: rgba(225, 225, 225,0.5);
+    border-radius: 10px;
+    position: absolute;
+      top:    120px;
+	  left:   250px;
+		
+      text-align: center;
+ 
+}
+.img1{
+    position: absolute;
+    height: 1000px;
+    width:  200px;
+    top: 0px;
+		
+}
+.img2{
+    position: absolute;
+    height: 1000px;
+    width:  200px;
+    top: 0px;
+    left: 1350px;
+		
+}
+h2{
+ font-size: medium;
+}
+.box{
+    
+    padding: 20px;
+    background-color: #30a7d7;
+    border-radius: 10px
+}
+
+.titulo{
+    text-align: center;
+}
+.contenedor{
+    
+    padding: 20px;
+    margin: 20px;
+    width: 100;
+    height: 100;
+}
+li{
+    list-style: none;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.Ctitle{
+  
+    color: black;
+    
+}
+.Ctext{
+   
+    color: white;
+}
+#button_1{
+    background-color: #30a7d7;
+    
+    border:0;
+}
+.barra{
+    width: 350px;
+    height: 20px;
+    background: rgba(225, 225, 225,0.5);
+    border-radius: 10px;
+}
+.progreso{
+    width: var(--w) ;
+    height: 100%;
+    background: rgb(1, 43, 253,0.5);
+    border-radius: 10px;
+    animation: Aumentar 5s ease;
+}
+.checkbox{
+
+    position: absolute;
+    top:    7050px;
+    left:   1000px;
+    width:  475px;
+    height: 300px;
+}
+.right{
+    position: absolute;
+      top:    100px;
+	  left:   775px;
+      width:  500px;
+	  height: 450px;
+		
+}
+.left{
+    position: absolute;
+      top:    650px;
+	  left:   250px;
+      width:  475px;
+	  height: 300px;
+}
+.Versions{
+    padding: 20px;
+  background: rgba(225, 225, 225,0.5);
+  border-radius: 10px;
+    position: absolute;
+      top:    650px;
+	  left:   800px;
+      width:  475px;
+	  height: 300px;
+}
+.button_0{
+    border-radius: 10px;
+    
+    background-color: #30a7d7;
+    color:white;
+    
+    border:0;
+
+}
+.button_2{
+    border-radius: 10px;
+    border:0;
+}
+
+@keyframes Aumentar{
+    0%{width: 0%;}
+    100%{width:var(--w);}
+
+}
