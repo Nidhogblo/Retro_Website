@@ -1,4 +1,4 @@
-# Proyecto Escolar: Página Web Retro Inspirada en el Inicio de Internet con rtematica de Pokemon
+# Proyecto Escolar: Página Web Retro Inspirada en el Inicio de Internet con tematica de Pokemon
 
 Trabajo escolar que consiste en una página web básica inspirada en el diseño y estilo de las páginas web retro del inicio de internet. Se desarrolla utilizando HTML para la estructura, JavaScript para la interactividad del cliente y C++
 
