@@ -26,5 +26,5 @@ Este proyecto se inspira en las primeras páginas web de internet, que tenían u
 ![Texto alternativo](240509_14h41m22s_screenshot.png)
 
 
-![Texto alternativo](240509_14h47m04s_screenshot.png)
+
 
