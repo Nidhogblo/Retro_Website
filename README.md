@@ -23,4 +23,7 @@ Este proyecto se inspira en las primeras páginas web de internet, que tenían u
 2. Abre el archivo HTML principal en un navegador web compatible.
 3. Explora la página web y disfruta de la experiencia retro inspirada en el inicio de internet.
 
+![Texto alternativo](240509_14h41m22s_screenshot.png)
+
+
 
